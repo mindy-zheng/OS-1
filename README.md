@@ -1,1 +1,4 @@
-# OS-1
+# OS-1: Skeleton multiple processes 
+-----------------------------------
+## How to run: 
+
